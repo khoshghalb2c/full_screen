@@ -6,15 +6,13 @@
     <body>
       <div id="div">
         <button onclick="demo(true)">Click me To FullScreen</button>
-		    <button onclick="demo(false)">Click me To Exit FullScreen</button>
+	<button onclick="demo(false)">Click me To Exit FullScreen</button>
       </div>
       <script>
         var object = document.getElementById("div");
         function demo(x){
-          if(x)
-            openSfullscreen(object);
-          else
-            closeSfullscreen(object);
+          if(x) openSfullscreen(object);
+          else closeSfullscreen(object);
         }
       </script>
       <script src="https://cdn.jsdelivr.net/gh/sazl-ir/full_screen@main/main.js"></script>
