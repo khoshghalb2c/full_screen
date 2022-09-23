@@ -1,5 +1,5 @@
 /*!
-  * sFULLSCREEN > Owner is https://github.com/sazl-ir;
+  * sFULLSCREEN > Owner is https://github.com/khoshghalb2c;
   * Copyright 2020-2021;
   */
   function openSfullscreen(x){
@@ -20,4 +20,4 @@
       x.msExitFullscreen();
     }
   }
-/*!* POWERED BY SAZL.IR *!*/
+/*!* POWERED BY khoshghalb2c.ir *!*/
