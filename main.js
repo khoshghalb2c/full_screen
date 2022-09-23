@@ -1,5 +1,5 @@
 /*!
-  * sFULLSCREEN > owner is https://sazl.ir/;
+  * sFULLSCREEN > owner is https://github.com/sazl-ir;
   * Copyright 2020-2021;
   */
   function openSfullscreen(x){
