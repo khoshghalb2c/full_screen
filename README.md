@@ -14,3 +14,8 @@ you must add `<script src="https://cdn.jsdelivr.net/gh/khoshghalb2c/full_screen@
 ### Example:
 
 you can goto [`example.html`](/example.html) and see example of this function. 
+
+### Licence:
+```
+Copyright © 2020 Khoshghalb2c.ir. All Rights Reserved.
+```
